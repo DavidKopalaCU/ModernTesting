@@ -1,0 +1,5 @@
+# Requirements for python package
+# List each python dependency on each line
+
+# Example
+# pytest
